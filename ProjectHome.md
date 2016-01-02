@@ -1,0 +1,1 @@
+integrate taobao and sina weibo. make a taobao shopping experience socialized with the support of sina weibo service.
